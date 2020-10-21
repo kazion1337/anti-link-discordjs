@@ -1,0 +1,28 @@
+{
+  "//1": "@kazion#1337",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "anti-link",
+  "name": "anti-link",
+  "version": "0.0.1",
+  "description": "Very simple anti-link discordjs .",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.3.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
